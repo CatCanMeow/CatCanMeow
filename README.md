@@ -1,15 +1,11 @@
-### Hello to the world. :wave:
+### Hello. 👋
 
-I'm *CatCanMeow*.
+I'm *Zhang Zifan*, *CatCanMeow* in GitHub, *Lemon_BartonBatton* in Luogu, *BartonBatton8* in CodeForces and *Barton88* in AtCoder.
 
-A normal programmer, usually use C++ and Python.
+An **OIer**. Usually use *C++* and *Python*.
 
 Let's make progress together.
 
-![](https://img.shields.io/badge/CodeForces-BartonBatton8-lightgrey)
-![](https://img.shields.io/badge/AtCoder-Barton88-lightgrey)
-![](https://img.shields.io/badge/SPOJ-bartonbatton-lightgrey)
+> After the night I burned all memory, my dream becomes transparent, as I trashed all yesterdays, my step becomes lighter.
 
-![](https://img.shields.io/badge/Luogu-BartonBatton-lightgrey)
-![](https://img.shields.io/badge/Luogu-CaCO3_qwq-lightgrey)
-![](https://img.shields.io/badge/HydroOJ-BartonBatton-lightgrey)
+Many Thanks.
