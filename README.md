@@ -1,6 +1,6 @@
 ### Hello. 👋
 
-I'm *Zhang Zifan*, *CatCanMeow* in GitHub, *Lemon_BartonBatton* in Luogu, *BartonBatton8* in CodeForces and *Barton88* in AtCoder.
+I'm *Zifan Zhang*, *CatCanMeow* in GitHub, *Lemon_BartonBatton* in Luogu, *BartonBatton8* in CodeForces and *Barton88* in AtCoder.
 
 An **OIer**. Usually use *C++* and *Python*.
 
