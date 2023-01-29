@@ -1,11 +1,7 @@
 ### Hello. 👋
 
-I'm *Zifan Zhang*, *CatCanMeow* in GitHub, *Lemon_BartonBatton* in Luogu, *BartonBatton8* in CodeForces and *Barton88* in AtCoder.
+My name is Zifan Zhang, an student in Beijing Tongzhou Taihu Primary Center School.
 
-An **OIer**. Usually use *C++* and *Python*.
+An OIer, usually use C++ and Python, learning algorithms in Aisichuang and learning HTML and CSS in freeCodeCamp.
 
-Let's make progress together.
-
-> After the night I burned all memory, my dream becomes transparent, as I trashed all yesterdays, my step becomes lighter.
-
-Many Thanks.
+Let's make progress together!
