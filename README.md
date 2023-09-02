@@ -1,7 +1,9 @@
 ### Hello. 👋
 
-My name is Zifan Zhang, an student in Beijing Tongzhou Taihu Primary Center School.
+My name is Zifan Zhang, an grade 7 student in Tianjin Meijiang High School.
 
-An OIer, usually use C++ and Python, learning algorithms in Aisichuang and learning HTML and CSS in freeCodeCamp.
+An OIer, usually use C++ and Python and keep learning.
 
 Let's make progress together!
+
+(Luogu account: UID594203)
